@@ -34,6 +34,6 @@ Las tablas de Player y Player_attributes son muy similares a las tablas de equip
 
 ![image](https://user-images.githubusercontent.com/99599847/162853995-6237f79d-2b2c-4fc3-9a07-4f73bf483862.png)
 
-Por último, la tabla Match consolidado un alto número de identificadores que permite tener el consolidado de todos los juegos y las estadísticas de cada uno de ellos durante las dos temporadas que consolidada el dataset. 
+Por último, la tabla Match consolidado un alto número de identificadores que permite tener el consolidado de todos los juegos y las estadísticas de cada uno de ellos durante las dos temporadas que consolidada el dataset. Acá se muestra información relevante estadísticamente del juego, tan básico como los goles, tiros y corners, hasta indicadores más específicos que  se utilizan a niveles más profundos de análisis del juego y que permiten tener un mejor entendimiento del performance que tuvieron ambos equipos y como pudo ser su evolución a lo largo de ambas temporadas. 
 
 ![image](https://user-images.githubusercontent.com/99599847/162854958-932e027f-525a-4c16-a474-a3598494b461.png)
